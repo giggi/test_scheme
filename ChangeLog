@@ -1,0 +1,10 @@
+2010-08-23  Hiromichi Iiduka  <iizuka@fixstars.com>
+
+	* how to commit
+
+	$ git add hoge.txt
+	$ git commit -m 'your comments'
+	$ git remote add origin git@github.com:giggi/test_scheme.git //at first only
+	$ git push origin master
+	
+
